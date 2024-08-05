@@ -27,3 +27,11 @@ sudo insmod hello.ko
 # for unloading
 sudo rmmod hello.ko
 ```
+
+## Bro Tip
+
+If you forgot your root password for some reason, using a user account that has root privilages, run:
+
+```
+sudo passwd root
+```

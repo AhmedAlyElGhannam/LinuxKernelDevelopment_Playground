@@ -1,0 +1,2 @@
+/home/nemesis/Desktop/Study_Plan/GithubRepositories/LinuxKernelDevelopment_Playground/2_CharDevDriver/rickroll.o
+

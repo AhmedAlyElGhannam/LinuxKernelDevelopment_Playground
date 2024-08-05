@@ -23,4 +23,3 @@ static void __exit hello_exit(void)
 
 module_init(hello_init); // tells the kernel that this is the init function for this module
 module_exit(hello_exit); // tells the kernel that this is the exit function for this module
-
