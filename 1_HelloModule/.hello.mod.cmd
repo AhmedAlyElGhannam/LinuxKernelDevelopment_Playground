@@ -1,0 +1,1 @@
+cmd_/home/nemesis/Desktop/Study_Plan/GithubRepositories/LinuxKernelDevelopment_Playground/1_HelloModule/hello.mod := { echo  /home/nemesis/Desktop/Study_Plan/GithubRepositories/LinuxKernelDevelopment_Playground/1_HelloModule/hello.o;  echo; } > /home/nemesis/Desktop/Study_Plan/GithubRepositories/LinuxKernelDevelopment_Playground/1_HelloModule/hello.mod
